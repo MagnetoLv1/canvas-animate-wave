@@ -1,11 +1,12 @@
 {
-    "name": "wave",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "매그니토",
-    "license": "ISC"
+  "name": "canvas-animate-wave",
+  "version": "1.0.0",
+  "description": "웨이브 애니메이션",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "매그니토",
+  "license": "ISC",
+  "keywords": []
 }
