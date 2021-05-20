@@ -1,4 +1,5 @@
 import { WaveGroup } from "./src/WaveGroup.js";
+import "./style.css";
 
 class App {
     constructor() {
@@ -28,6 +29,4 @@ class App {
         window.requestAnimationFrame(this.animate.bind(this));
     }
 }
-window.onload = () => {
-    new App();
-};
+new App();
